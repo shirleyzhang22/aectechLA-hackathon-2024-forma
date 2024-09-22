@@ -1,0 +1,432 @@
+{
+    "levels": [
+        {
+            "height": 6.096,
+            "points": {
+                "1c57io7ji0-1nhe15bws8": [
+                    0,
+                    0
+                ],
+                "2vzhy2ow2m-1nhe15bws8": [
+                    18.284866263863215,
+                    -0.3385405627645639
+                ],
+                "w05at56h2k-1nhe15bws8": [
+                    19.413334806411775,
+                    60.61101365011281
+                ],
+                "3ccmmpsatg-1nhe15bws8": [
+                    -59.82108567032881,
+                    62.07802275542592
+                ],
+                "3evuzu7gte-1nhe15bws8": [
+                    -60.94955421287736,
+                    1.128468542548859
+                ],
+                "25wzydwnuw-1nhe15bws8": [
+                    -42.66468794901415,
+                    0.789927979783954
+                ],
+                "3ne0stlhyh-1nhe15bws8": [
+                    -41.93118339635761,
+                    40.407138218154245
+                ],
+                "2z9370gukt-1nhe15bws8": [
+                    0.7335045526565125,
+                    39.61721023837026
+                ]
+            },
+            "surfaces": [
+                {
+                    "id": "35h8bzmx6e-1nhe15bws8",
+                    "pointA": "1c57io7ji0-1nhe15bws8",
+                    "pointB": "2vzhy2ow2m-1nhe15bws8"
+                },
+                {
+                    "id": "2hxs3a1hut-1nhe15bws8",
+                    "pointA": "2vzhy2ow2m-1nhe15bws8",
+                    "pointB": "w05at56h2k-1nhe15bws8"
+                },
+                {
+                    "id": "3q3jl4a50i-1nhe15bws8",
+                    "pointA": "w05at56h2k-1nhe15bws8",
+                    "pointB": "3ccmmpsatg-1nhe15bws8"
+                },
+                {
+                    "id": "mrpddbwi1n-1nhe15bws8",
+                    "pointA": "3ccmmpsatg-1nhe15bws8",
+                    "pointB": "3evuzu7gte-1nhe15bws8"
+                },
+                {
+                    "id": "3opkhfp4cm-1nhe15bws8",
+                    "pointA": "3evuzu7gte-1nhe15bws8",
+                    "pointB": "25wzydwnuw-1nhe15bws8"
+                },
+                {
+                    "id": "1rti00h5ob-1nhe15bws8",
+                    "pointA": "25wzydwnuw-1nhe15bws8",
+                    "pointB": "3ne0stlhyh-1nhe15bws8"
+                },
+                {
+                    "id": "2bwf7hktau-1nhe15bws8",
+                    "pointA": "3ne0stlhyh-1nhe15bws8",
+                    "pointB": "2z9370gukt-1nhe15bws8"
+                },
+                {
+                    "id": "aty1cpzs33-1nhe15bws8",
+                    "pointA": "2z9370gukt-1nhe15bws8",
+                    "pointB": "1c57io7ji0-1nhe15bws8"
+                }
+            ],
+            "spaces": [
+                {
+                    "id": "2ihc9qc1r1-1nhe15bws8",
+                    "innerLoops": [],
+                    "outerLoop": [
+                        {
+                            "id": "2ihc9qc1r1-35h8bzmx6e-1nhe15bws8",
+                            "surfaceId": "35h8bzmx6e-1nhe15bws8",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-2hxs3a1hut-1nhe15bws8",
+                            "surfaceId": "2hxs3a1hut-1nhe15bws8",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-3q3jl4a50i-1nhe15bws8",
+                            "surfaceId": "3q3jl4a50i-1nhe15bws8",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-mrpddbwi1n-1nhe15bws8",
+                            "surfaceId": "mrpddbwi1n-1nhe15bws8",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-3opkhfp4cm-1nhe15bws8",
+                            "surfaceId": "3opkhfp4cm-1nhe15bws8",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-1rti00h5ob-1nhe15bws8",
+                            "surfaceId": "1rti00h5ob-1nhe15bws8",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-2bwf7hktau-1nhe15bws8",
+                            "surfaceId": "2bwf7hktau-1nhe15bws8",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-aty1cpzs33-1nhe15bws8",
+                            "surfaceId": "aty1cpzs33-1nhe15bws8",
+                            "directionAToB": true,
+                            "partnerId": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "height": 3.6576000000000004,
+            "points": {
+                "1c57io7ji0-9vyzstd67v": [
+                    0,
+                    0
+                ],
+                "2vzhy2ow2m-9vyzstd67v": [
+                    18.284866263863215,
+                    -0.3385405627645639
+                ],
+                "w05at56h2k-9vyzstd67v": [
+                    19.413334806411775,
+                    60.61101365011281
+                ],
+                "3ccmmpsatg-9vyzstd67v": [
+                    -59.82108567032881,
+                    62.07802275542592
+                ],
+                "3evuzu7gte-9vyzstd67v": [
+                    -60.94955421287736,
+                    1.128468542548859
+                ],
+                "25wzydwnuw-9vyzstd67v": [
+                    -42.66468794901415,
+                    0.789927979783954
+                ],
+                "3ne0stlhyh-9vyzstd67v": [
+                    -41.93118339635761,
+                    40.407138218154245
+                ],
+                "2z9370gukt-9vyzstd67v": [
+                    0.7335045526565125,
+                    39.61721023837026
+                ]
+            },
+            "surfaces": [
+                {
+                    "id": "35h8bzmx6e-9vyzstd67v",
+                    "pointA": "1c57io7ji0-9vyzstd67v",
+                    "pointB": "2vzhy2ow2m-9vyzstd67v"
+                },
+                {
+                    "id": "2hxs3a1hut-9vyzstd67v",
+                    "pointA": "2vzhy2ow2m-9vyzstd67v",
+                    "pointB": "w05at56h2k-9vyzstd67v"
+                },
+                {
+                    "id": "3q3jl4a50i-9vyzstd67v",
+                    "pointA": "w05at56h2k-9vyzstd67v",
+                    "pointB": "3ccmmpsatg-9vyzstd67v"
+                },
+                {
+                    "id": "mrpddbwi1n-9vyzstd67v",
+                    "pointA": "3ccmmpsatg-9vyzstd67v",
+                    "pointB": "3evuzu7gte-9vyzstd67v"
+                },
+                {
+                    "id": "3opkhfp4cm-9vyzstd67v",
+                    "pointA": "3evuzu7gte-9vyzstd67v",
+                    "pointB": "25wzydwnuw-9vyzstd67v"
+                },
+                {
+                    "id": "1rti00h5ob-9vyzstd67v",
+                    "pointA": "25wzydwnuw-9vyzstd67v",
+                    "pointB": "3ne0stlhyh-9vyzstd67v"
+                },
+                {
+                    "id": "2bwf7hktau-9vyzstd67v",
+                    "pointA": "3ne0stlhyh-9vyzstd67v",
+                    "pointB": "2z9370gukt-9vyzstd67v"
+                },
+                {
+                    "id": "aty1cpzs33-9vyzstd67v",
+                    "pointA": "2z9370gukt-9vyzstd67v",
+                    "pointB": "1c57io7ji0-9vyzstd67v"
+                }
+            ],
+            "spaces": [
+                {
+                    "id": "2ihc9qc1r1-9vyzstd67v",
+                    "innerLoops": [],
+                    "outerLoop": [
+                        {
+                            "id": "2ihc9qc1r1-35h8bzmx6e-9vyzstd67v",
+                            "surfaceId": "35h8bzmx6e-9vyzstd67v",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-2hxs3a1hut-9vyzstd67v",
+                            "surfaceId": "2hxs3a1hut-9vyzstd67v",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-3q3jl4a50i-9vyzstd67v",
+                            "surfaceId": "3q3jl4a50i-9vyzstd67v",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-mrpddbwi1n-9vyzstd67v",
+                            "surfaceId": "mrpddbwi1n-9vyzstd67v",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-3opkhfp4cm-9vyzstd67v",
+                            "surfaceId": "3opkhfp4cm-9vyzstd67v",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-1rti00h5ob-9vyzstd67v",
+                            "surfaceId": "1rti00h5ob-9vyzstd67v",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-2bwf7hktau-9vyzstd67v",
+                            "surfaceId": "2bwf7hktau-9vyzstd67v",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-aty1cpzs33-9vyzstd67v",
+                            "surfaceId": "aty1cpzs33-9vyzstd67v",
+                            "directionAToB": true,
+                            "partnerId": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "height": 3.6576000000000004,
+            "points": {
+                "1c57io7ji0-2f1xqhg4ek": [
+                    0,
+                    0
+                ],
+                "2vzhy2ow2m-2f1xqhg4ek": [
+                    18.284866263863215,
+                    -0.3385405627645639
+                ],
+                "w05at56h2k-2f1xqhg4ek": [
+                    19.413334806411775,
+                    60.61101365011281
+                ],
+                "3ccmmpsatg-2f1xqhg4ek": [
+                    -59.82108567032881,
+                    62.07802275542592
+                ],
+                "3evuzu7gte-2f1xqhg4ek": [
+                    -60.94955421287736,
+                    1.128468542548859
+                ],
+                "25wzydwnuw-2f1xqhg4ek": [
+                    -42.66468794901415,
+                    0.789927979783954
+                ],
+                "3ne0stlhyh-2f1xqhg4ek": [
+                    -41.93118339635761,
+                    40.407138218154245
+                ],
+                "2z9370gukt-2f1xqhg4ek": [
+                    0.7335045526565125,
+                    39.61721023837026
+                ]
+            },
+            "surfaces": [
+                {
+                    "id": "35h8bzmx6e-2f1xqhg4ek",
+                    "pointA": "1c57io7ji0-2f1xqhg4ek",
+                    "pointB": "2vzhy2ow2m-2f1xqhg4ek"
+                },
+                {
+                    "id": "2hxs3a1hut-2f1xqhg4ek",
+                    "pointA": "2vzhy2ow2m-2f1xqhg4ek",
+                    "pointB": "w05at56h2k-2f1xqhg4ek"
+                },
+                {
+                    "id": "3q3jl4a50i-2f1xqhg4ek",
+                    "pointA": "w05at56h2k-2f1xqhg4ek",
+                    "pointB": "3ccmmpsatg-2f1xqhg4ek"
+                },
+                {
+                    "id": "mrpddbwi1n-2f1xqhg4ek",
+                    "pointA": "3ccmmpsatg-2f1xqhg4ek",
+                    "pointB": "3evuzu7gte-2f1xqhg4ek"
+                },
+                {
+                    "id": "3opkhfp4cm-2f1xqhg4ek",
+                    "pointA": "3evuzu7gte-2f1xqhg4ek",
+                    "pointB": "25wzydwnuw-2f1xqhg4ek"
+                },
+                {
+                    "id": "1rti00h5ob-2f1xqhg4ek",
+                    "pointA": "25wzydwnuw-2f1xqhg4ek",
+                    "pointB": "3ne0stlhyh-2f1xqhg4ek"
+                },
+                {
+                    "id": "2bwf7hktau-2f1xqhg4ek",
+                    "pointA": "3ne0stlhyh-2f1xqhg4ek",
+                    "pointB": "2z9370gukt-2f1xqhg4ek"
+                },
+                {
+                    "id": "aty1cpzs33-2f1xqhg4ek",
+                    "pointA": "2z9370gukt-2f1xqhg4ek",
+                    "pointB": "1c57io7ji0-2f1xqhg4ek"
+                }
+            ],
+            "spaces": [
+                {
+                    "id": "2ihc9qc1r1-2f1xqhg4ek",
+                    "innerLoops": [],
+                    "outerLoop": [
+                        {
+                            "id": "2ihc9qc1r1-35h8bzmx6e-2f1xqhg4ek",
+                            "surfaceId": "35h8bzmx6e-2f1xqhg4ek",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-2hxs3a1hut-2f1xqhg4ek",
+                            "surfaceId": "2hxs3a1hut-2f1xqhg4ek",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-3q3jl4a50i-2f1xqhg4ek",
+                            "surfaceId": "3q3jl4a50i-2f1xqhg4ek",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-mrpddbwi1n-2f1xqhg4ek",
+                            "surfaceId": "mrpddbwi1n-2f1xqhg4ek",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-3opkhfp4cm-2f1xqhg4ek",
+                            "surfaceId": "3opkhfp4cm-2f1xqhg4ek",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-1rti00h5ob-2f1xqhg4ek",
+                            "surfaceId": "1rti00h5ob-2f1xqhg4ek",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-2bwf7hktau-2f1xqhg4ek",
+                            "surfaceId": "2bwf7hktau-2f1xqhg4ek",
+                            "directionAToB": true,
+                            "partnerId": null
+                        },
+                        {
+                            "id": "2ihc9qc1r1-aty1cpzs33-2f1xqhg4ek",
+                            "surfaceId": "aty1cpzs33-2f1xqhg4ek",
+                            "directionAToB": true,
+                            "partnerId": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "units": [
+        {
+            "id": "2fo8hq3lj4",
+            "spaceIds": [
+                "2ihc9qc1r1-1nhe15bws8"
+            ],
+            "properties": {}
+        },
+        {
+            "id": "m3kmua9w16",
+            "spaceIds": [
+                "2ihc9qc1r1-9vyzstd67v"
+            ],
+            "properties": {}
+        },
+        {
+            "id": "2tkflj7d57",
+            "spaceIds": [
+                "2ihc9qc1r1-2f1xqhg4ek"
+            ],
+            "properties": {}
+        }
+    ]
+}

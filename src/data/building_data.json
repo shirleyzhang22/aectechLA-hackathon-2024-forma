@@ -1,0 +1,760 @@
+{
+    "elements": {
+        "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9:1726954794039": {
+            "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9:1726954794039",
+            "properties": {
+                "category": "building"
+            },
+            "representations": {
+                "__INTERNAL__": {
+                    "type": "embedded-json",
+                    "data": {
+                        "floors": [
+                            {
+                                "id": "1nhe15bws8",
+                                "graph": {
+                                    "vertices": {
+                                        "1c57io7ji0": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "id": "1c57io7ji0"
+                                        },
+                                        "2vzhy2ow2m": {
+                                            "x": 18.284866263863215,
+                                            "y": -0.3385405627645639,
+                                            "id": "2vzhy2ow2m"
+                                        },
+                                        "w05at56h2k": {
+                                            "x": 19.413334806411775,
+                                            "y": 60.61101365011281,
+                                            "id": "w05at56h2k"
+                                        },
+                                        "3ccmmpsatg": {
+                                            "x": -59.82108567032881,
+                                            "y": 62.07802275542592,
+                                            "id": "3ccmmpsatg"
+                                        },
+                                        "3evuzu7gte": {
+                                            "x": -60.94955421287736,
+                                            "y": 1.128468542548859,
+                                            "id": "3evuzu7gte"
+                                        },
+                                        "25wzydwnuw": {
+                                            "x": -42.66468794901415,
+                                            "y": 0.789927979783954,
+                                            "id": "25wzydwnuw"
+                                        },
+                                        "3ne0stlhyh": {
+                                            "x": -41.93118339635761,
+                                            "y": 40.407138218154245,
+                                            "id": "3ne0stlhyh"
+                                        },
+                                        "2z9370gukt": {
+                                            "x": 0.7335045526565125,
+                                            "y": 39.61721023837026,
+                                            "id": "2z9370gukt"
+                                        }
+                                    },
+                                    "edges": {
+                                        "35h8bzmx6e": {
+                                            "start": "1c57io7ji0",
+                                            "end": "2vzhy2ow2m",
+                                            "id": "35h8bzmx6e"
+                                        },
+                                        "2hxs3a1hut": {
+                                            "start": "2vzhy2ow2m",
+                                            "end": "w05at56h2k",
+                                            "id": "2hxs3a1hut"
+                                        },
+                                        "3q3jl4a50i": {
+                                            "start": "w05at56h2k",
+                                            "end": "3ccmmpsatg",
+                                            "id": "3q3jl4a50i"
+                                        },
+                                        "mrpddbwi1n": {
+                                            "start": "3ccmmpsatg",
+                                            "end": "3evuzu7gte",
+                                            "id": "mrpddbwi1n"
+                                        },
+                                        "3opkhfp4cm": {
+                                            "start": "3evuzu7gte",
+                                            "end": "25wzydwnuw",
+                                            "id": "3opkhfp4cm"
+                                        },
+                                        "1rti00h5ob": {
+                                            "start": "25wzydwnuw",
+                                            "end": "3ne0stlhyh",
+                                            "id": "1rti00h5ob"
+                                        },
+                                        "2bwf7hktau": {
+                                            "start": "3ne0stlhyh",
+                                            "end": "2z9370gukt",
+                                            "id": "2bwf7hktau"
+                                        },
+                                        "aty1cpzs33": {
+                                            "start": "2z9370gukt",
+                                            "end": "1c57io7ji0",
+                                            "id": "aty1cpzs33"
+                                        }
+                                    }
+                                },
+                                "spaces": {
+                                    "2ihc9qc1r1": {
+                                        "id": "2ihc9qc1r1",
+                                        "polygon": [
+                                            "1c57io7ji0",
+                                            "2vzhy2ow2m",
+                                            "w05at56h2k",
+                                            "3ccmmpsatg",
+                                            "3evuzu7gte",
+                                            "25wzydwnuw",
+                                            "3ne0stlhyh",
+                                            "2z9370gukt"
+                                        ],
+                                        "holes": []
+                                    }
+                                },
+                                "height": 6.096
+                            },
+                            {
+                                "id": "9vyzstd67v",
+                                "graph": {
+                                    "vertices": {
+                                        "1c57io7ji0": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "id": "1c57io7ji0"
+                                        },
+                                        "2vzhy2ow2m": {
+                                            "x": 18.284866263863215,
+                                            "y": -0.3385405627645639,
+                                            "id": "2vzhy2ow2m"
+                                        },
+                                        "w05at56h2k": {
+                                            "x": 19.413334806411775,
+                                            "y": 60.61101365011281,
+                                            "id": "w05at56h2k"
+                                        },
+                                        "3ccmmpsatg": {
+                                            "x": -59.82108567032881,
+                                            "y": 62.07802275542592,
+                                            "id": "3ccmmpsatg"
+                                        },
+                                        "3evuzu7gte": {
+                                            "x": -60.94955421287736,
+                                            "y": 1.128468542548859,
+                                            "id": "3evuzu7gte"
+                                        },
+                                        "25wzydwnuw": {
+                                            "x": -42.66468794901415,
+                                            "y": 0.789927979783954,
+                                            "id": "25wzydwnuw"
+                                        },
+                                        "3ne0stlhyh": {
+                                            "x": -41.93118339635761,
+                                            "y": 40.407138218154245,
+                                            "id": "3ne0stlhyh"
+                                        },
+                                        "2z9370gukt": {
+                                            "x": 0.7335045526565125,
+                                            "y": 39.61721023837026,
+                                            "id": "2z9370gukt"
+                                        }
+                                    },
+                                    "edges": {
+                                        "35h8bzmx6e": {
+                                            "start": "1c57io7ji0",
+                                            "end": "2vzhy2ow2m",
+                                            "id": "35h8bzmx6e"
+                                        },
+                                        "2hxs3a1hut": {
+                                            "start": "2vzhy2ow2m",
+                                            "end": "w05at56h2k",
+                                            "id": "2hxs3a1hut"
+                                        },
+                                        "3q3jl4a50i": {
+                                            "start": "w05at56h2k",
+                                            "end": "3ccmmpsatg",
+                                            "id": "3q3jl4a50i"
+                                        },
+                                        "mrpddbwi1n": {
+                                            "start": "3ccmmpsatg",
+                                            "end": "3evuzu7gte",
+                                            "id": "mrpddbwi1n"
+                                        },
+                                        "3opkhfp4cm": {
+                                            "start": "3evuzu7gte",
+                                            "end": "25wzydwnuw",
+                                            "id": "3opkhfp4cm"
+                                        },
+                                        "1rti00h5ob": {
+                                            "start": "25wzydwnuw",
+                                            "end": "3ne0stlhyh",
+                                            "id": "1rti00h5ob"
+                                        },
+                                        "2bwf7hktau": {
+                                            "start": "3ne0stlhyh",
+                                            "end": "2z9370gukt",
+                                            "id": "2bwf7hktau"
+                                        },
+                                        "aty1cpzs33": {
+                                            "start": "2z9370gukt",
+                                            "end": "1c57io7ji0",
+                                            "id": "aty1cpzs33"
+                                        }
+                                    }
+                                },
+                                "spaces": {
+                                    "2ihc9qc1r1": {
+                                        "id": "2ihc9qc1r1",
+                                        "polygon": [
+                                            "1c57io7ji0",
+                                            "2vzhy2ow2m",
+                                            "w05at56h2k",
+                                            "3ccmmpsatg",
+                                            "3evuzu7gte",
+                                            "25wzydwnuw",
+                                            "3ne0stlhyh",
+                                            "2z9370gukt"
+                                        ],
+                                        "holes": []
+                                    }
+                                },
+                                "height": 3.6576000000000004
+                            },
+                            {
+                                "id": "2f1xqhg4ek",
+                                "graph": {
+                                    "vertices": {
+                                        "1c57io7ji0": {
+                                            "x": 0,
+                                            "y": 0,
+                                            "id": "1c57io7ji0"
+                                        },
+                                        "2vzhy2ow2m": {
+                                            "x": 18.284866263863215,
+                                            "y": -0.3385405627645639,
+                                            "id": "2vzhy2ow2m"
+                                        },
+                                        "w05at56h2k": {
+                                            "x": 19.413334806411775,
+                                            "y": 60.61101365011281,
+                                            "id": "w05at56h2k"
+                                        },
+                                        "3ccmmpsatg": {
+                                            "x": -59.82108567032881,
+                                            "y": 62.07802275542592,
+                                            "id": "3ccmmpsatg"
+                                        },
+                                        "3evuzu7gte": {
+                                            "x": -60.94955421287736,
+                                            "y": 1.128468542548859,
+                                            "id": "3evuzu7gte"
+                                        },
+                                        "25wzydwnuw": {
+                                            "x": -42.66468794901415,
+                                            "y": 0.789927979783954,
+                                            "id": "25wzydwnuw"
+                                        },
+                                        "3ne0stlhyh": {
+                                            "x": -41.93118339635761,
+                                            "y": 40.407138218154245,
+                                            "id": "3ne0stlhyh"
+                                        },
+                                        "2z9370gukt": {
+                                            "x": 0.7335045526565125,
+                                            "y": 39.61721023837026,
+                                            "id": "2z9370gukt"
+                                        }
+                                    },
+                                    "edges": {
+                                        "35h8bzmx6e": {
+                                            "start": "1c57io7ji0",
+                                            "end": "2vzhy2ow2m",
+                                            "id": "35h8bzmx6e"
+                                        },
+                                        "2hxs3a1hut": {
+                                            "start": "2vzhy2ow2m",
+                                            "end": "w05at56h2k",
+                                            "id": "2hxs3a1hut"
+                                        },
+                                        "3q3jl4a50i": {
+                                            "start": "w05at56h2k",
+                                            "end": "3ccmmpsatg",
+                                            "id": "3q3jl4a50i"
+                                        },
+                                        "mrpddbwi1n": {
+                                            "start": "3ccmmpsatg",
+                                            "end": "3evuzu7gte",
+                                            "id": "mrpddbwi1n"
+                                        },
+                                        "3opkhfp4cm": {
+                                            "start": "3evuzu7gte",
+                                            "end": "25wzydwnuw",
+                                            "id": "3opkhfp4cm"
+                                        },
+                                        "1rti00h5ob": {
+                                            "start": "25wzydwnuw",
+                                            "end": "3ne0stlhyh",
+                                            "id": "1rti00h5ob"
+                                        },
+                                        "2bwf7hktau": {
+                                            "start": "3ne0stlhyh",
+                                            "end": "2z9370gukt",
+                                            "id": "2bwf7hktau"
+                                        },
+                                        "aty1cpzs33": {
+                                            "start": "2z9370gukt",
+                                            "end": "1c57io7ji0",
+                                            "id": "aty1cpzs33"
+                                        }
+                                    }
+                                },
+                                "spaces": {
+                                    "2ihc9qc1r1": {
+                                        "id": "2ihc9qc1r1",
+                                        "polygon": [
+                                            "1c57io7ji0",
+                                            "2vzhy2ow2m",
+                                            "w05at56h2k",
+                                            "3ccmmpsatg",
+                                            "3evuzu7gte",
+                                            "25wzydwnuw",
+                                            "3ne0stlhyh",
+                                            "2z9370gukt"
+                                        ],
+                                        "holes": []
+                                    }
+                                },
+                                "height": 3.6576000000000004
+                            }
+                        ],
+                        "units": [
+                            {
+                                "id": "2fo8hq3lj4",
+                                "spaces": [
+                                    {
+                                        "floorId": "1nhe15bws8",
+                                        "spaceId": "2ihc9qc1r1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "m3kmua9w16",
+                                "spaces": [
+                                    {
+                                        "floorId": "9vyzstd67v",
+                                        "spaceId": "2ihc9qc1r1"
+                                    }
+                                ]
+                            },
+                            {
+                                "id": "2tkflj7d57",
+                                "spaces": [
+                                    {
+                                        "floorId": "2f1xqhg4ek",
+                                        "spaceId": "2ihc9qc1r1"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "semanticMesh": {
+                    "type": "linked",
+                    "selection": {
+                        "type": "equals",
+                        "value": "building"
+                    },
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~semanticMesh"
+                },
+                "graphBuilding_UNSTABLE": {
+                    "type": "linked",
+                    "selection": {
+                        "type": "equals",
+                        "value": "building"
+                    },
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~graphBuilding"
+                },
+                "graphBuilding_V2_UNSTABLE": {
+                    "type": "linked",
+                    "selection": {
+                        "type": "equals",
+                        "value": "building"
+                    },
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~graphBuildingV2"
+                },
+                "graphBuilding": {
+                    "type": "linked",
+                    "selection": {
+                        "type": "equals",
+                        "value": "building"
+                    },
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~graphBuildingV2"
+                }
+            },
+            "children": [
+                {
+                    "key": "0",
+                    "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_0:1726954794039"
+                },
+                {
+                    "key": "1",
+                    "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_1:1726954794039"
+                },
+                {
+                    "key": "2",
+                    "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_2:1726954794039"
+                }
+            ]
+        },
+        "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_0:1726954794039": {
+            "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_0:1726954794039",
+            "properties": {
+                "category": "floor"
+            },
+            "representations": {
+                "volumeMesh": {
+                    "type": "linked",
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~volumeMesh",
+                    "selection": {
+                        "type": "equals",
+                        "value": "floor_0"
+                    }
+                },
+                "volume25DCollection": {
+                    "type": "linked",
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~volume25DCollection",
+                    "selection": {
+                        "type": "startsWith",
+                        "value": "building_0+"
+                    }
+                },
+                "gfaUnits": {
+                    "type": "embedded-json",
+                    "data": [
+                        {
+                            "areas": [
+                                {
+                                    "coordinates": [
+                                        [
+                                            [
+                                                0,
+                                                0
+                                            ],
+                                            [
+                                                18.284866263863215,
+                                                -0.3385405627645639
+                                            ],
+                                            [
+                                                19.413334806411775,
+                                                60.61101365011281
+                                            ],
+                                            [
+                                                -59.82108567032881,
+                                                62.07802275542592
+                                            ],
+                                            [
+                                                -60.94955421287736,
+                                                1.128468542548859
+                                            ],
+                                            [
+                                                -42.66468794901415,
+                                                0.789927979783954
+                                            ],
+                                            [
+                                                -41.93118339635761,
+                                                40.407138218154245
+                                            ],
+                                            [
+                                                0.7335045526565125,
+                                                39.61721023837026
+                                            ]
+                                        ]
+                                    ],
+                                    "elevation": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "grossFloorAreaPolygons": {
+                    "type": "embedded-json",
+                    "data": [
+                        {
+                            "grossFloorPolygon": [
+                                [
+                                    [
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        18.284866263863215,
+                                        -0.3385405627645639
+                                    ],
+                                    [
+                                        19.413334806411775,
+                                        60.61101365011281
+                                    ],
+                                    [
+                                        -59.82108567032881,
+                                        62.07802275542592
+                                    ],
+                                    [
+                                        -60.94955421287736,
+                                        1.128468542548859
+                                    ],
+                                    [
+                                        -42.66468794901415,
+                                        0.789927979783954
+                                    ],
+                                    [
+                                        -41.93118339635761,
+                                        40.407138218154245
+                                    ],
+                                    [
+                                        0.7335045526565125,
+                                        39.61721023837026
+                                    ]
+                                ]
+                            ],
+                            "elevation": 0
+                        }
+                    ]
+                }
+            }
+        },
+        "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_1:1726954794039": {
+            "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_1:1726954794039",
+            "properties": {
+                "category": "floor"
+            },
+            "representations": {
+                "volumeMesh": {
+                    "type": "linked",
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~volumeMesh",
+                    "selection": {
+                        "type": "equals",
+                        "value": "floor_1"
+                    }
+                },
+                "volume25DCollection": {
+                    "type": "linked",
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~volume25DCollection",
+                    "selection": {
+                        "type": "startsWith",
+                        "value": "building_1+"
+                    }
+                },
+                "gfaUnits": {
+                    "type": "embedded-json",
+                    "data": [
+                        {
+                            "areas": [
+                                {
+                                    "coordinates": [
+                                        [
+                                            [
+                                                0,
+                                                0
+                                            ],
+                                            [
+                                                18.284866263863215,
+                                                -0.3385405627645639
+                                            ],
+                                            [
+                                                19.413334806411775,
+                                                60.61101365011281
+                                            ],
+                                            [
+                                                -59.82108567032881,
+                                                62.07802275542592
+                                            ],
+                                            [
+                                                -60.94955421287736,
+                                                1.128468542548859
+                                            ],
+                                            [
+                                                -42.66468794901415,
+                                                0.789927979783954
+                                            ],
+                                            [
+                                                -41.93118339635761,
+                                                40.407138218154245
+                                            ],
+                                            [
+                                                0.7335045526565125,
+                                                39.61721023837026
+                                            ]
+                                        ]
+                                    ],
+                                    "elevation": 6.096
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "grossFloorAreaPolygons": {
+                    "type": "embedded-json",
+                    "data": [
+                        {
+                            "grossFloorPolygon": [
+                                [
+                                    [
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        18.284866263863215,
+                                        -0.3385405627645639
+                                    ],
+                                    [
+                                        19.413334806411775,
+                                        60.61101365011281
+                                    ],
+                                    [
+                                        -59.82108567032881,
+                                        62.07802275542592
+                                    ],
+                                    [
+                                        -60.94955421287736,
+                                        1.128468542548859
+                                    ],
+                                    [
+                                        -42.66468794901415,
+                                        0.789927979783954
+                                    ],
+                                    [
+                                        -41.93118339635761,
+                                        40.407138218154245
+                                    ],
+                                    [
+                                        0.7335045526565125,
+                                        39.61721023837026
+                                    ]
+                                ]
+                            ],
+                            "elevation": 6.096
+                        }
+                    ]
+                }
+            }
+        },
+        "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_2:1726954794039": {
+            "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9_2:1726954794039",
+            "properties": {
+                "category": "floor"
+            },
+            "representations": {
+                "volumeMesh": {
+                    "type": "linked",
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~volumeMesh",
+                    "selection": {
+                        "type": "equals",
+                        "value": "floor_2"
+                    }
+                },
+                "volume25DCollection": {
+                    "type": "linked",
+                    "blobId": "basicbuilding:25hkfvyuu9~1726954794039~volume25DCollection",
+                    "selection": {
+                        "type": "startsWith",
+                        "value": "building_2+"
+                    }
+                },
+                "gfaUnits": {
+                    "type": "embedded-json",
+                    "data": [
+                        {
+                            "areas": [
+                                {
+                                    "coordinates": [
+                                        [
+                                            [
+                                                0,
+                                                0
+                                            ],
+                                            [
+                                                18.284866263863215,
+                                                -0.3385405627645639
+                                            ],
+                                            [
+                                                19.413334806411775,
+                                                60.61101365011281
+                                            ],
+                                            [
+                                                -59.82108567032881,
+                                                62.07802275542592
+                                            ],
+                                            [
+                                                -60.94955421287736,
+                                                1.128468542548859
+                                            ],
+                                            [
+                                                -42.66468794901415,
+                                                0.789927979783954
+                                            ],
+                                            [
+                                                -41.93118339635761,
+                                                40.407138218154245
+                                            ],
+                                            [
+                                                0.7335045526565125,
+                                                39.61721023837026
+                                            ]
+                                        ]
+                                    ],
+                                    "elevation": 9.7536
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "grossFloorAreaPolygons": {
+                    "type": "embedded-json",
+                    "data": [
+                        {
+                            "grossFloorPolygon": [
+                                [
+                                    [
+                                        0,
+                                        0
+                                    ],
+                                    [
+                                        18.284866263863215,
+                                        -0.3385405627645639
+                                    ],
+                                    [
+                                        19.413334806411775,
+                                        60.61101365011281
+                                    ],
+                                    [
+                                        -59.82108567032881,
+                                        62.07802275542592
+                                    ],
+                                    [
+                                        -60.94955421287736,
+                                        1.128468542548859
+                                    ],
+                                    [
+                                        -42.66468794901415,
+                                        0.789927979783954
+                                    ],
+                                    [
+                                        -41.93118339635761,
+                                        40.407138218154245
+                                    ],
+                                    [
+                                        0.7335045526565125,
+                                        39.61721023837026
+                                    ]
+                                ]
+                            ],
+                            "elevation": 9.7536
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

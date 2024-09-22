@@ -1,0 +1,21 @@
+{
+    "id": "pro_2wet97vhty",
+    "name": "3106 South Harvard Boulevard, Los Angeles, California 90018, United States",
+    "createdAt": "2024-09-21T19:45:03.149Z",
+    "hubId": "cus_b1bcxfkwbab",
+    "description": "",
+    "countryCode": "US",
+    "refPointWgs84": [
+        34.02630420998784,
+        -118.30634501314785
+    ],
+    "coordinateSystem": {
+        "srid": 32611,
+        "refPoint": [
+            379395.12950495677,
+            3765841.9781166534
+        ]
+    },
+    "timezone": "America/Los_Angeles",
+    "inviteOnly": true
+}

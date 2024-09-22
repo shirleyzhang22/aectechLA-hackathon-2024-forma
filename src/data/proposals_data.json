@@ -1,0 +1,171 @@
+{
+    "results": [
+        {
+            "urn": "urn:adsk-forma-elements:proposal:pro_2wet97vhty:0d5a2613-35b3-4eb5-abdb-1991f6c47541:1726954627365",
+            "metadata": {
+                "predecessor": "urn:adsk-forma-elements:proposal:pro_2wet97vhty:0d5a2613-35b3-4eb5-abdb-1991f6c47541:1726954627257",
+                "createdAt": "2024-09-21T21:37:12.199Z",
+                "createdBy": "H2M23KFUK5VCQCR5"
+            },
+            "properties": {
+                "name": "Proposal 1",
+                "flags": {
+                    "a3584179-15ca-455d-8165-bc2b4d1b81b3": {
+                        "base": true,
+                        "scenario": true,
+                        "fixed": true,
+                        "lock": true
+                    }
+                },
+                "category": "proposal"
+            },
+            "children": [
+                {
+                    "key": "466c6420-219e-4508-a21b-e149b5fa934c",
+                    "urn": "urn:adsk-forma-elements:terrain:pro_2wet97vhty:c658656d-68e1-494f-ab09-db67a6c15ee1:1726947917854"
+                },
+                {
+                    "key": "a3584179-15ca-455d-8165-bc2b4d1b81b3",
+                    "urn": "urn:adsk-forma-elements:group:pro_2wet97vhty:base:1726954627362"
+                }
+            ]
+        },
+        {
+            "urn": "urn:adsk-forma-elements:proposal:pro_2wet97vhty:304654e4-e1ca-45a9-a026-089f678722b4:1726954794040",
+            "metadata": {
+                "predecessor": "urn:adsk-forma-elements:proposal:pro_2wet97vhty:304654e4-e1ca-45a9-a026-089f678722b4:1726954793990",
+                "createdAt": "2024-09-21T21:39:55.341Z",
+                "createdBy": "H2M23KFUK5VCQCR5"
+            },
+            "properties": {
+                "name": "Proposal 2",
+                "flags": {
+                    "a3584179-15ca-455d-8165-bc2b4d1b81b3": {
+                        "base": true,
+                        "scenario": true,
+                        "fixed": true,
+                        "lock": true
+                    }
+                },
+                "category": "proposal"
+            },
+            "children": [
+                {
+                    "key": "1441516",
+                    "transform": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        -70.36340751702434,
+                        -165.62132985218628,
+                        49.08703529784961,
+                        1
+                    ],
+                    "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9:1726954794039"
+                },
+                {
+                    "key": "8206c7d",
+                    "urn": "urn:adsk-forma-elements:basic:pro_2wet97vhty:63d8c331c4cd6+b5b83b45d5b0f:1726952285508"
+                },
+                {
+                    "key": "466c6420-219e-4508-a21b-e149b5fa934c",
+                    "urn": "urn:adsk-forma-elements:terrain:pro_2wet97vhty:c658656d-68e1-494f-ab09-db67a6c15ee1:1726947917854"
+                },
+                {
+                    "key": "a3584179-15ca-455d-8165-bc2b4d1b81b3",
+                    "urn": "urn:adsk-forma-elements:group:pro_2wet97vhty:27c47e6e787e5:1726952197208"
+                }
+            ]
+        },
+        {
+            "urn": "urn:adsk-forma-elements:proposal:pro_2wet97vhty:36610a41-7e6b-4012-b1f5-96582f2b565a:1726956733577",
+            "metadata": {
+                "predecessor": "urn:adsk-forma-elements:proposal:pro_2wet97vhty:36610a41-7e6b-4012-b1f5-96582f2b565a:1726956729766",
+                "createdAt": "2024-09-21T22:12:15.422Z",
+                "createdBy": "H2M23KFUK5VCQCR5"
+            },
+            "properties": {
+                "name": "Proposal 3",
+                "flags": {
+                    "a3584179-15ca-455d-8165-bc2b4d1b81b3": {
+                        "base": true,
+                        "scenario": true,
+                        "fixed": true,
+                        "lock": true
+                    }
+                },
+                "category": "proposal"
+            },
+            "children": [
+                {
+                    "key": "4f63dad",
+                    "transform": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        -113.0280956273759,
+                        -164.83140189274414,
+                        48.66049673494037,
+                        1
+                    ],
+                    "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:1hdrow4klh:1726954918137"
+                },
+                {
+                    "key": "1441516",
+                    "transform": [
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        -70.36340751702434,
+                        -165.62132985218628,
+                        49.08703529784961,
+                        1
+                    ],
+                    "urn": "urn:adsk-forma-elements:basicbuilding:pro_2wet97vhty:25hkfvyuu9:1726954871908"
+                },
+                {
+                    "key": "8206c7d",
+                    "urn": "urn:adsk-forma-elements:basic:pro_2wet97vhty:63d8c331c4cd6+b5b83b45d5b0f:1726952285508"
+                },
+                {
+                    "key": "466c6420-219e-4508-a21b-e149b5fa934c",
+                    "urn": "urn:adsk-forma-elements:terrain:pro_2wet97vhty:c658656d-68e1-494f-ab09-db67a6c15ee1:1726947917854"
+                },
+                {
+                    "key": "a3584179-15ca-455d-8165-bc2b4d1b81b3",
+                    "urn": "urn:adsk-forma-elements:group:pro_2wet97vhty:f2424ab1d8d94:1726956733575"
+                }
+            ]
+        }
+    ],
+    "pagination": {
+        "limit": 100
+    }
+}
